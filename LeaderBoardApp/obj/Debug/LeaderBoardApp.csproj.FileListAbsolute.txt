@@ -1,0 +1,5 @@
+c:\users\john doe\documents\visual studio 2017\Projects\LeaderBoardApp\LeaderBoardApp\obj\Debug\LeaderBoardApp.csprojResolveAssemblyReference.cache
+c:\users\john doe\documents\visual studio 2017\Projects\LeaderBoardApp\LeaderBoardApp\bin\Debug\LeaderBoardApp.pdb
+c:\users\john doe\documents\visual studio 2017\Projects\LeaderBoardApp\LeaderBoardApp\obj\Debug\LeaderBoardApp.pdb
+c:\users\john doe\documents\visual studio 2017\Projects\LeaderBoardApp\LeaderBoardApp\bin\Debug\LeaderBoardApp.exe
+c:\users\john doe\documents\visual studio 2017\Projects\LeaderBoardApp\LeaderBoardApp\obj\Debug\LeaderBoardApp.exe
